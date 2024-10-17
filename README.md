@@ -39,10 +39,7 @@
   [4]: http://8.217.166.104/usr/uploads/2024/10/3064605184.png
   [5]: http://8.217.166.104/usr/uploads/2024/10/2378232421.png
 
-
-源代码:
-
-    import tkinter as tk
+import tkinter as tk
 from tkinter import ttk, messagebox
 import pymysql
 from typing import List, Tuple, Optional
